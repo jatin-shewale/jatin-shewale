@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Full-Stack, AI &Machine Learning Projects.**
 
-- 👨‍💻 All of my projects are available at [https://myportfolio-jatin-shewales-projects.vercel.app/](https://myportfolio-jatin-shewales-projects.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://myportfolio-jatin-shewales-projects.vercel.app/](https://my-portfolio-jatin-shewales-projects.vercel.app/)
 
 - 📫 How to reach me **shewalejatin427@gmail.com**
 
