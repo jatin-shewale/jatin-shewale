@@ -21,7 +21,7 @@
 
 ## 🧠 Who Am I?
 
-<div align="center">
+<div>
 
 ```python
 class Jatin:
@@ -84,9 +84,11 @@ print(me.vision())
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatin-shewale&layout=compact&theme=tokyonight&border_radius=10"/>
 
 <br/>
+<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jatin-shewale&theme=tokyonight&border_radius=10"/>
 
+<br/>
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jatin-shewale&theme=tokyo-night&area=true&hide_border=true" width="95%"/>
@@ -97,11 +99,14 @@ print(me.vision())
 
 ## 🏆 Achievements
 
-<div align="center">
+<div>
 
 ✨ Author of *"The Moon Still Remembers Her"*
+<br/>
 🚀 Built AI-powered real-world applications
+<br/>
 💡 Strong in DSA, problem solving & system building
+<br/>
 
 </div>
 
@@ -112,6 +117,8 @@ print(me.vision())
 <div align="center">
 
 *"Open to internships, collaborations & impactful ideas."*
+<br/>
+<br/>
 
 [![Connect](https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/jatin-shewale1006)
 [![Portfolio](https://img.shields.io/badge/View%20Work-Portfolio-000?style=for-the-badge\&logo=vercel)](https://jatin-shewale.vercel.app/)
