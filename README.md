@@ -2,7 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:141e30,50:243b55,100:0f2027&height=260&section=header&text=Jatin%20Shewale&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Problem%20Solver&descAlignY=60&descSize=18&descColor=00f5d4" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=I+build+AI-powered+products+🤖;Full+Stack+Developer+⚡;Turning+ideas+into+reality+🚀;Code.+Create.+Innovate.+Repeat." />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=I+build+AI-powered+products;Full+Stack+Developer;Turning+ideas+into+reality;Code.+Create.+Innovate.+Repeat." />
+</p>
 
 <br/>
 
